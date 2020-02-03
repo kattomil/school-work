@@ -1,0 +1,5 @@
+3 Cartarescu Mircea 2013 6 14 1000
+2 Toma Rodica 2017 7 30 3600
+5 Cote Madalina 2018 10 10 1200
+1 Coricovac Adina 2018 10 20 1200
+4 Rosca Adina 2018 12 30 3600

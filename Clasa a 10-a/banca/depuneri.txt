@@ -1,0 +1,4 @@
+1 200 Cinteza Emil 20 7 2019
+1 100 Cinteza Emil 10 10 2019
+2 100 Pascaru Cosmin 10 12 2019
+2 100 Cinteza Emil 10 2 2019

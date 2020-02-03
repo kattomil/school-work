@@ -1,0 +1,3 @@
+Sa se determine pentru un numar intreg x cu cel mult 9 cifre citit de la tastatura:
+
+c) Se cere sa se determine toate numerele care se pot obtine adaugand prima cifra la sfarsitul numarului.

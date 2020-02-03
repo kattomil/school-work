@@ -1,0 +1,5 @@
+1 Pascaru 150 8
+2 Vlad 1 85
+3 Adina 1 100
+4 Dodenciu 1000 108
+5 Marco 100 90

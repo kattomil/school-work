@@ -34,7 +34,7 @@ void greedy() {
     sol[1]=s[1];m++;
     for(int i=2;i<=n;i++) {
         int durmin=25,k=0;
-        for(int j=i;j<=n;j++)
+        for(int j=2;j<=n;j++)
             if(s[j].x>=sol[m].y && s[j].dur<durmin) {
                 sol[m+1]=s[j];
                 k=1;
